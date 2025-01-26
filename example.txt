@@ -1,1 +1,1 @@
-•	This is the original content of example.txt
+This is the completely new content in the G24AIT072 branch
